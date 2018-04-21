@@ -17,3 +17,8 @@ To do:
 - Improve state generation method.
 - Improve policy rules. Suggest using ml techniques.
 - Create new and more complex crossover and mutations.
+
+Version History:
+- Raw - First try
+- v0 - Hard coded, fixed state inheritance for new generations
+- v1 - Removed hard coding.
